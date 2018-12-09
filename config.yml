@@ -44,7 +44,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample App Status
+title: CirclesIO Bot Status
 
 # What language is this site using?
 # Only alters the html[lang] attribute
@@ -77,13 +77,13 @@ params:
   # https://github.com/mistermantas/cstate/wiki/Customization
   systems:
     -
-      name: Gateway
+      name: Hosting
     -
       name: API
       description: The guts of the application.
     -
-      name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      name: Music Encoder
+      description: This is the service responsible for serving audio.
 
   # What header design should we use?
   #
