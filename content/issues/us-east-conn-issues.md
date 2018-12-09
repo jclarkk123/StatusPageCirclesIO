@@ -4,7 +4,7 @@ date: 2018-05-25 04:13:00
 resolved: true
 resolvedWhen: 2018-05-25 04:40:00
 # down, disrupted, notice
-severity: disrupted
+severity: down
 affected:
   - API
 section: issue
